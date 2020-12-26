@@ -1,0 +1,24 @@
+name: Update from members-db-store
+
+on:
+  schedule:
+    - cron: 30 8 */2 * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Execute script
+        env:
+          STORE_URL: https://github.com/approvers/members-db-store/raw/master/database.yaml
+          TARGET_FILE: ./data/members/list.yaml
+        run: |
+          cargo run --release
+      - name: Commmit changes
+        run: |
+          git config --global user.name ${NAME}
+          git config --global user.email ${EMAIL}
+
+          git commit -am "Update list.yaml"
+          git push origin master
