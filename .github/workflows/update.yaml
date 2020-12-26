@@ -13,6 +13,9 @@ jobs:
         env:
           STORE_URL: https://github.com/approvers/members-db-store/raw/master/database.yaml
           TARGET_FILE: ./data/members/list.yaml
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_KEY: ${{ secrets.DISCORD_KEY }}
+          TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
         run: |
           cargo run --release
       - name: Commmit changes
