@@ -25,5 +25,6 @@ pub fn load(store_url: &str) -> Database {
     let mut store_file = File::create(store_url).expect("STOE_URL path must valid");
     let store: Database =
         serde_yaml::from_reader(&mut store_file).expect("the store must valid YAML");
+    assert_eq!(store.version, 3);
     store
 }
