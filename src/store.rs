@@ -1,7 +1,7 @@
 use serde::{Deserialize, Serialize};
 
 #[readonly::make]
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Contacts {
     pub twitter: Option<u64>,
     pub github: Option<u64>,
@@ -9,7 +9,7 @@ pub struct Contacts {
 }
 
 #[readonly::make]
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Member {
     pub id: String,
     pub name: String,
