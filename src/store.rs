@@ -1,23 +1,26 @@
 use serde::{Deserialize, Serialize};
 
+#[readonly::make]
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Contacts {
-    twitter: Option<u64>,
-    github: Option<u64>,
-    discord: Option<u64>,
+    pub twitter: Option<u64>,
+    pub github: Option<u64>,
+    pub discord: Option<u64>,
 }
 
+#[readonly::make]
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Member {
-    id: String,
-    name: String,
-    contacts: Contacts,
+    pub id: String,
+    pub name: String,
+    pub contacts: Contacts,
 }
 
+#[readonly::make]
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Database {
     version: u32,
-    members: Vec<Member>,
+    pub members: Vec<Member>,
 }
 
 pub fn load(store_url: &str) -> Database {
