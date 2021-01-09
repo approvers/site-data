@@ -324,14 +324,14 @@
     - type: twitter
       url: https://twitter.com/Yorime_yrm
 
-- name: なつ
-  avatar: https://github.com/Natu9.png
+- name: Merutan
+  avatar: https://github.com/Merutan.png
   role: ガチプロ
   links:
     - type: twitter
-      url: https://twitter.com/_Natu9
+      url: https://twitter.com/sqmeru
     - type: github
-      url: https://github.com/Natu9
+      url: https://github.com/Merutan
 
 - name: 柚月えふ
   avatar: ""
