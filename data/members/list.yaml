@@ -581,6 +581,15 @@
     - type: twitter
       url: https://twitter.com/guutara_nonki
 
+- name: NakaYou
+  avatar: https://github.com/NakaYou.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/NakaYou_JK
+    - type: github
+      url: https://github.com/NakaYou
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
