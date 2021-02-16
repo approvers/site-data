@@ -551,14 +551,14 @@
     - type: github
       url: https://github.com/Mugisus
 
-- name: pc7342
-  avatar: https://github.com/pc7342.png
+- name: ろくまいる
+  avatar: https://github.com/6mile0.png
   role: ガチプロ
   links:
     - type: twitter
-      url: https://twitter.com/pc7342
+      url: https://twitter.com/6mile0
     - type: github
-      url: https://github.com/pc7342
+      url: https://github.com/6mile0
 
 - name: えると
   avatar: ""
