@@ -592,6 +592,13 @@
     - type: github
       url: https://github.com/NakaYou
 
+- name: うよ
+  avatar: ""
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/Mr_uyr
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
