@@ -511,13 +511,13 @@
       url: https://github.com/cobaltbluesky
 
 - name: キャベツ
-  avatar: https://github.com/kazukazuprogram.png
+  avatar: https://github.com/pycabbage.png
   role: ガチプロ
   links:
     - type: twitter
       url: https://twitter.com/cabbagepython
     - type: github
-      url: https://github.com/kazukazuprogram
+      url: https://github.com/pycabbage
 
 - name: s4na/Nabetani
   avatar: https://github.com/s4na.png
