@@ -599,6 +599,15 @@
     - type: twitter
       url: https://twitter.com/Mr_uyr
 
+- name: チズチズ
+  avatar: https://github.com/chizuchizu.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/chizu_potato
+    - type: github
+      url: https://github.com/chizuchizu
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
