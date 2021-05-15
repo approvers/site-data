@@ -13,6 +13,6 @@ jobs:
         with:
           github-token: ${{ secrets.PUSH_TOKEN }}
           script: |
-            const repositry = "approvers/approvers.github.io"
+            const repositry = "approvers/site"
             const workflowId = 2751281
             await github.request(`POST /repos/${repositry}/actions/workflows/${workflowId}/dispatches`, { ref: "main" })
