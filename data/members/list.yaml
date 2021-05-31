@@ -176,6 +176,15 @@
     - type: twitter
       url: https://twitter.com/Bitrate0
 
+- name: へねぱす
+  avatar: https://github.com/kosakae256.png
+  role: 超スーパーガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/kosakae256
+    - type: github
+      url: https://github.com/kosakae256
+
 - name: くもことなおこ
   avatar: https://github.com/naoko1010hh.png
   role: 頭のおかしい大天災
