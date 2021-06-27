@@ -599,15 +599,6 @@
     - type: github
       url: https://github.com/chizuchizu
 
-- name: loxygen
-  avatar: https://github.com/loxygenK.png
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/loxygen_k
-    - type: github
-      url: https://github.com/loxygenK
-
 - name: 涼宮悠
   avatar: ""
   role: ガチプロ
