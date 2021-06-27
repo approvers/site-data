@@ -43,15 +43,6 @@
     - type: github
       url: https://github.com/2tfuyu
 
-- name: Mikuro さいな
-  avatar: https://github.com/MikuroXina.png
-  role: 超スーパーガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/MikuroXina
-    - type: github
-      url: https://github.com/MikuroXina
-
 - name: かわえもん
   avatar: https://github.com/kawaemon.png
   role: 超スーパーガチプロ
@@ -608,14 +599,12 @@
     - type: github
       url: https://github.com/chizuchizu
 
-- name: loxygen
-  avatar: https://github.com/loxygenK.png
+- name: 涼宮悠
+  avatar: ""
   role: ガチプロ
   links:
     - type: twitter
-      url: https://twitter.com/loxygen_k
-    - type: github
-      url: https://github.com/loxygenK
+      url: https://twitter.com/Yu_Szmiya
 
 - name: えぬ
   avatar: ""
@@ -651,3 +640,12 @@
   links:
     - type: twitter
       url: https://twitter.com/god_hikouki/
+
+- name: Mikuroさいな
+  avatar: https://github.com/MikuroXina.png
+  role: べんつよマン
+  links:
+    - type: twitter
+      url: https://twitter.com/MikuroXina
+    - type: github
+      url: https://github.com/MikuroXina
