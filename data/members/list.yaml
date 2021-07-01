@@ -142,6 +142,16 @@
     - type: github
       url: https://github.com/FlexiblePrintedCircuits
 
+
+- name: チズチズ
+  avatar: https://github.com/chizuchizu.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/chizu_potato
+    - type: github
+      url: https://github.com/chizuchizu
+
 - name: すばる
   avatar: https://github.com/su8ru.png
   role: 超スーパーガチプロ
@@ -589,15 +599,6 @@
   links:
     - type: twitter
       url: https://twitter.com/Mr_uyr
-
-- name: チズチズ
-  avatar: https://github.com/chizuchizu.png
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/chizu_potato
-    - type: github
-      url: https://github.com/chizuchizu
 
 - name: 涼宮悠
   avatar: ""
