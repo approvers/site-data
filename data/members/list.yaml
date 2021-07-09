@@ -606,6 +606,15 @@
     - type: twitter
       url: https://twitter.com/Yu_Szmiya
 
+- name: フライさん
+  avatar: https://github.com/loxygenK.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/loxygenK
+    - type: github
+      url: https://github.com/loxygenK
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
