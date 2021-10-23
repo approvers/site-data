@@ -622,6 +622,13 @@
     - type: github
       url: https://github.com/soracqt
 
+- name: けーぶる
+  avatar: ""
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/wister_fl
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
