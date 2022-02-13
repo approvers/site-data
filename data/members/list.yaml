@@ -79,24 +79,6 @@
     - type: github
       url: https://github.com/Iwancof
 
-- name: alt
-  avatar: https://github.com/JJ1LFC.png
-  role: 超スーパーガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/jj1lfc
-    - type: github
-      url: https://github.com/JJ1LFC
-
-- name: JUN
-  avatar: https://github.com/JUNNETWORKS.png
-  role: 超スーパーガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/JUN_NETWORKS_JP
-    - type: github
-      url: https://github.com/JUNNETWORKS
-
 - name: tatchan
   avatar: https://github.com/TATCHAN0825.png
   role: 超スーパーガチプロ
@@ -564,13 +546,6 @@
     - type: github
       url: https://github.com/6mile0
 
-- name: えると
-  avatar: ""
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/proelbtn
-
 - name: トゥくﾄｩん
   avatar: https://github.com/tukutun.png
   role: ガチプロ
@@ -584,13 +559,6 @@
   avatar: ""
   role: ガチプロ
   links: []
-
-- name: ぐうたら
-  avatar: ""
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/guutara_nonki
 
 - name: NakaYou
   avatar: https://github.com/NakaYou.png
