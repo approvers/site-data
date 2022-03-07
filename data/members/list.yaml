@@ -176,6 +176,15 @@
     - type: github
       url: https://github.com/KisaragiEffective
 
+- name: Re-taro
+  avatar: https://github.com/re-taro.png
+  role: 超スーパーガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/10969_rintaro
+    - type: github
+      url: https://github.com/re-taro
+
 - name: くもことなおこ
   avatar: https://github.com/naoko1010hh.png
   role: 頭のおかしい大天災
