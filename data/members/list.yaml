@@ -629,6 +629,15 @@
     - type: twitter
       url: https://twitter.com/y_oh22
 
+- name: こかすた〜
+  avatar: https://github.com/starkoka.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/kokastar_kosen
+    - type: github
+      url: https://github.com/starkoka
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
