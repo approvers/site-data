@@ -622,6 +622,13 @@
     - type: twitter
       url: https://twitter.com/saru_second
 
+- name: ねこ
+  avatar: ""
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/y_oh22
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
