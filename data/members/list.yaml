@@ -286,13 +286,13 @@
   links: []
 
 - name: Rinia
-  avatar: https://github.com/watano1168.png
+  avatar: https://github.com/2RiniaR.png
   role: ガチプロ
   links:
     - type: twitter
       url: https://twitter.com/2RiniaR
     - type: github
-      url: https://github.com/watano1168
+      url: https://github.com/2RiniaR
 
 - name: 某さん
   avatar: https://github.com/nanigasi-san.png
@@ -637,6 +637,13 @@
       url: https://twitter.com/kokastar_kosen
     - type: github
       url: https://github.com/starkoka
+
+- name: exp3
+  avatar: ""
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/exp_sosaku
 
 - name: えぬ
   avatar: ""
