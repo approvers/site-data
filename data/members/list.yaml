@@ -638,6 +638,13 @@
     - type: github
       url: https://github.com/starkoka
 
+- name: exp3
+  avatar: ""
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/exp_sosaku
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
