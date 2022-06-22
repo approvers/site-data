@@ -645,6 +645,13 @@
     - type: twitter
       url: https://twitter.com/exp_sosaku
 
+- name: abokado
+  avatar: ""
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/abokado_niko
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
