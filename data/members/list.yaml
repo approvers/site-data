@@ -294,15 +294,6 @@
   role: ガチプロ
   links: []
 
-- name: Rinia
-  avatar: https://github.com/2RiniaR.png
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/2RiniaR
-    - type: github
-      url: https://github.com/2RiniaR
-
 - name: 某さん
   avatar: https://github.com/nanigasi-san.png
   role: ガチプロ
