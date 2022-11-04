@@ -185,6 +185,15 @@
     - type: github
       url: https://github.com/re-taro
 
+- name: らら
+  avatar: https://github.com/emp-temp.png
+  role: 超スーパーガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/emptemp0000
+    - type: github
+      url: https://github.com/emp-temp
+
 - name: くもことなおこ
   avatar: https://github.com/naoko1010hh.png
   role: 頭のおかしい大天災
@@ -284,15 +293,6 @@
   avatar: ""
   role: ガチプロ
   links: []
-
-- name: Rinia
-  avatar: https://github.com/2RiniaR.png
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/2RiniaR
-    - type: github
-      url: https://github.com/2RiniaR
 
 - name: 某さん
   avatar: https://github.com/nanigasi-san.png
@@ -591,15 +591,6 @@
   links:
     - type: twitter
       url: https://twitter.com/Yu_Szmiya
-
-- name: フライさん
-  avatar: https://github.com/loxygenK.png
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/loxygen_k
-    - type: github
-      url: https://github.com/loxygenK
 
 - name: そらねこ
   avatar: https://github.com/soracqt.png
