@@ -658,13 +658,13 @@
       url: https://twitter.com/y_yukura
 
 - name: infoengine
-  avatar: ""
+  avatar: https://github.com/infoengine1337.png
   role: ガチプロ
   links:
     - type: twitter
-      url: ""
+      url: https://twitter.com/infoengine1337
     - type: github
-      url: ""
+      url: https://github.com/infoengine1337
 
 - name: えぬ
   avatar: ""
