@@ -666,6 +666,15 @@
     - type: github
       url: https://github.com/infoengine1337
 
+- name: RuSwiftive
+  avatar: https://github.com/sou31415.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/RuSwiftive
+    - type: github
+      url: https://github.com/sou31415
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
