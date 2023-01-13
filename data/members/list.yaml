@@ -194,7 +194,7 @@
     - type: github
       url: https://github.com/emp-temp
 
-- name: tetra
+- name: netetra
   avatar: https://github.com/Netetra.png
   role: 超スーパーガチプロ
   links:
