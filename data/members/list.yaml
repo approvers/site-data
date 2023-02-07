@@ -684,6 +684,15 @@
     - type: github
       url: https://github.com/sou31415
 
+- name: YosCiiCable
+  avatar: https://github.com/YosCiiCable.png
+  role: ガチプロ
+  links:
+    - type: twitter
+      url: https://twitter.com/YosCiiCable
+    - type: github
+      url: https://github.com/YosCiiCable
+
 - name: えぬ
   avatar: ""
   role: べんつよマン
