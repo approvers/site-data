@@ -367,15 +367,6 @@
     - type: twitter
       url: https://twitter.com/Yorime_yrm
 
-- name: める
-  avatar: https://github.com/m2en.png
-  role: ガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/m9eenn
-    - type: github
-      url: https://github.com/m2en
-
 - name: 柚月えふ
   avatar: ""
   role: ガチプロ
