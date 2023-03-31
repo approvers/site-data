@@ -97,15 +97,6 @@
     - type: github
       url: https://github.com/unios103
 
-- name: SHUN / しゅん
-  avatar: https://github.com/shun-shobon.png
-  role: 超スーパーガチプロ
-  links:
-    - type: twitter
-      url: https://twitter.com/shun_shobon
-    - type: github
-      url: https://github.com/shun-shobon
-
 - name: フレキシブル基板
   avatar: https://github.com/FlexiblePrintedCircuits.png
   role: 超スーパーガチプロ
